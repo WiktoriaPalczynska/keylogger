@@ -11,7 +11,7 @@ ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____
                               |___/         |___/ |___/
 ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____   ____
 --> Coded by: Wiktoria Pałczyńska
---> Github: https://github.com/WiktoriaPalczynska/ipp_Wiktoria_Palczynska_2023
+--> Github: https://github.com/WiktoriaPalczynska/keylogger
 --> For Windows System only
 
 *For education purpose only! ;)
